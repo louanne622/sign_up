@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-color: #FDC300;
+    position: absolute;
+    width: 587px;
+    height: 1025px;
+    left: 0px;
+    top: 0px;
+}
